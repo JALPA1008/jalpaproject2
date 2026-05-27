@@ -56,5 +56,3 @@ Select an option:
 
 ## Author
 jalpa rafaliya
-
-- Your Name
